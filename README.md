@@ -8,7 +8,7 @@ This is the repo for ETC5513 Assignment 3 due on May 22 at 5:00pm.
 - Confirm that you are able to clone a repository locally and synchronise the changes to the remote GitHub repo.
 - Confirm that you can create meaningful commits so that the changes and the history of the project can be tracked.
 - Show that you can create and merge branches as well as resolve conflicts.
-- Please use the template provided in this repo. For this assignment you do **not** need to modify the template.
+- Please use the template provided in this repo. For this assignment you do **not** need to modify the template. Also make sure that all the R code and R messages do not appear in the report.
 
 
 # Tasks 
@@ -17,7 +17,7 @@ In groups of three (same groups as in Tutorial 8) create a reproducible and coll
 
 **Select two countries from the data set and explain how does the corona virus affect the countries that you have selected?** 
 
-- Make sure that inside your section you have a figure and a table that both are referenced in the text. In addition, add a paper reference into the text too and update the bib file with the reference. Write a paragraph with no more than 100-150 words to discuss your answer to the research question refering to your figure and your table.
+- Make sure that inside your section you have a figure and a table that both are referenced in the text. In addition, add a paper/book reference into the text too and update the bib file with the reference. Write a paragraph with no more than 100-150 words to discuss your answer to the research question refering to your figure and your table.
 - To help you with your data wrangling and figures have a look at week's 8 lecture demo template. 
 
 # Logistics
@@ -66,7 +66,7 @@ https://www.monash.edu/students/admin/policies/academic-integrity
 | Work on Individual branches|     |  
 | Table with caption + referenced in report text       |     |
 | Figure with caption  + referenced in report text    |     |
-| Sucesfully include paper reference in bib file and citation in the report text   |     |
+| Sucesfully include paper/book reference in the bib file and a citation in the report text   |     |
 | Overall report quality   |     |
 
 
