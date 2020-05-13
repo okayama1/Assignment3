@@ -22,10 +22,10 @@ In groups of three (same groups as in Tutorial 8) create a reproducible and coll
 
 # Logistics
 - In your groups please nominate a person who will access the repository in this link and create the group in GitHub classroom. Then the other members of the team please join the same group. The repo can be public or private. 
-- Once all the members of each team have joined their group in GitHub classrooms you can start working in the project.
-- Each member of the team can clone the repository in your local machine and create a branch to work in your own section. Please name the branch using your name and surname (**name_surname**).
-- Each member of the group will work in one section (if you are 4 in your team please create a new section in report.Rmd file).
-- Make sure that you stage, commit and push the changes that you are making as you are working (don't leave it all to the end).
+- Once all the members of your team have joined the group in GitHub classrooms you can all start working in the project.
+- Each team member should then clone the repository in your local machine and create a branch to work in your own section. Please name the branch using your name and surname (**name_surname**).
+- Each member of the group will work in one section (if you are 4 in your team please create a new section in the report.Rmd file).
+- Make sure that you stage, commit and push the changes that you are making into your own branch as you are creating your section (don't leave it all to the end).
 - While you work in your section please make sure you work in your branch and  commit and push changes into your **own branch** in the remote repository too. That will minimize conflicts.
 - Also make sure you fetch the contents of the remote repository from time to time (don't leave that to the end).
 - Once your section is complete then please merge your branch into your repo and deal with any possible conflicts. 
