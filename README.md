@@ -17,7 +17,10 @@ In groups of three (same groups as in Tutorial 8) create a reproducible and coll
 
 **Select two countries from the data set and explain how does the corona virus affect the countries that you have selected?** 
 
-- Make sure that inside your section you have  a figure and a table that both are referenced in the text. In addition, add a paper reference into the text too and update the bib file with the reference. Write a paragraph with no more than 150 words to discuss your answer to the research question refering to your figure and your table.
+- Make sure that inside your section you have a figure and a table that both are referenced in the text. In addition, add a paper reference into the text too and update the bib file with the reference. Write a paragraph with no more than 100-150 words to discuss your answer to the research question refering to your figure and your table.
+- To help you with your data wrangling and figures have a look at week's 8 lecture demo template. 
+
+# Logistics
 - In your groups please nominate a person who will access the repository in this link and create the group in GitHub classroom. Then the other members of the team please join the same group. The repo can be public or private. 
 - Once all the members of each team have joined their group in GitHub classrooms you can start working in the project.
 - Each member of the team can clone the repository in your local machine and create a branch to work in your own section. Please name the branch using your name and surname (**name_surname**).
