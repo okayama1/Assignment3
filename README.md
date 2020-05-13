@@ -64,9 +64,9 @@ https://www.monash.edu/students/admin/policies/academic-integrity
 | Individual effort        |     | 
 | Clear commits            |     | 
 | Work on Individual branches|     |  
-| Table with caption       |     |
-| Figure with caption      |     |
-| Sucesfully include paper reference  |     |
+| Table with caption + referenced in report text       |     |
+| Figure with caption  + referenced in report text    |     |
+| Sucesfully include paper reference in bib file and cited in the report text   |     |
 | Overall report quality   |     |
 
 
