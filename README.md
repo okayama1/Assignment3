@@ -66,7 +66,7 @@ https://www.monash.edu/students/admin/policies/academic-integrity
 | Work on Individual branches|     |  
 | Table with caption + referenced in report text       |     |
 | Figure with caption  + referenced in report text    |     |
-| Sucesfully include paper reference in bib file and cited in the report text   |     |
+| Sucesfully include paper reference in bib file and citation in the report text   |     |
 | Overall report quality   |     |
 
 
