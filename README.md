@@ -21,7 +21,7 @@ In groups of three (same groups as in Tutorial 8) create a reproducible and coll
 - To help you with your data wrangling and figures have a look at week's 8 lecture demo template. 
 
 # Logistics
-- In your groups please nominate a person who will access the repository in this link and create the group in GitHub classroom. Then the other members of the team please join the same group. The repo can be public or private. 
+- In your groups please nominate a person who will access the repository in this link (https://classroom.github.com/g/sIoNpzKN) and create the group in GitHub classroom. Then the other members of the team please join the same group. The repo can be public or private. 
 - Once all the members of your team have joined the group in GitHub classrooms you can all start working in the project.
 - Each team member should then clone the repository in your local machine and create a branch to work in your own section. Please name the branch using your name and surname (**name_surname**).
 - Each member of the group will work in one section (if you are 4 in your team please create a new section in the report.Rmd file).
