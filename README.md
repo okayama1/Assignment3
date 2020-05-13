@@ -1,15 +1,15 @@
-# Assignment3
+# Assignment 3
 
 This is the repo for ETC5513 Assignment 3 due on May 22 at 5:00pm.
 
 
 # The Goals of The Assignment:
 
-- Demonstrate that you are capable of creating a **group** reproducible **pdf** report using RStudio, Git and GitHub using all the tools that we have learnt.
+- Demonstrate that you are capable of creating a **group reproducible pdf** report using RStudio, Git and GitHub using all the tools that we have learnt.
 - Confirm that you are able to clone a repository locally and synchronise the changes to the remote GitHub repo.
 - Confirm that you can create meaningful commits so that the changes and the history of the project can be tracked.
 - Show that you can create and merge branches as well as resolve conflicts.
-- Please use the template provided in this repo. For this assignment, you do **not** need to modify the template. Also ensure that you do **not** include all the R code and R messages in the report.
+- Please use the template provided in this repo. For this assignment, you do **not** need to modify the template. Also ensure that you do **not** include all the R code and R messages in the report output. You may choose to output code parts if those are relevant for the report output.
 
 
 # Tasks 
@@ -18,7 +18,7 @@ Work in group of three (same as in Tutorial 8) to create a reproducible and coll
 
 **Select two countries from the data set and explain how the coronavirus affects the countries that you have selected?** 
 
-- Ensure that inside your section you have a figure and a table that are both referenced in the text. In addition, add a paper/book reference into the text too and update the bib file with the reference. Write a paragraph with no more than 100-150 words to discuss your answer to the research question refering to the figure and table.
+- Ensure that inside your section you have a **figure** and a **table** that are *both referenced in the text*. In addition, add a **paper/book reference** into the text too and **update the bib file** with the reference. Write a paragraph with no more than 100-150 words to discuss your answer to the research question in your section refering to the figure and table.
 - To help you with your data wrangling and figures, have a look at the demo template of week 8 lecture. 
 
 
@@ -39,14 +39,14 @@ Work in group of three (same as in Tutorial 8) to create a reproducible and coll
 - Assignment is due on Friday May 22 at 5:00pm. Late submissions will not be accepted.
 - By the due date, all the changes in your repo need to be merged to the master branch.
 - If GitHub repos are modified after the submission date. The assignment will be marked with a 0.
-- GitHub repos that are not reproducible will be marked with a 0.
+- GitHub repos that are not reproducible (i.e if the report **cannot** be reproduced from the files in the GitHub repo) will be marked with a 0.
 
 
 # Assignment Submission 
 
 - In Moodle: paste the http of your GitHub repo (**submissions that do not contain this information to reproduce the report will be considered non-reproducible**). Ensure that all your paths are relative to the project folder.
-- Upload the Rmd file of the project.
-- Upload the pdf file of the project.
+- Upload the *Rmd file* of the project.
+- Upload the *pdf file* of the project.
 - Important:
     - Your GitHub repo including all the history will also be marked. 
     - Do not worry if you encountered problems during the commits, branching or merging. The important thing is that all the conflicts are resolved and you have your final report in the last commit of your master branch. That will show that you are able to use the tools!
@@ -60,7 +60,7 @@ Monash University is committed to honesty and academic integrity. There are seri
 https://www.monash.edu/students/admin/policies/academic-integrity
 
 
-# Assignment rubric
+# Assignment Rubric
 
 | Marks                    |1-10 |
 |--------------------------|:---:|
