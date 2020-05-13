@@ -41,7 +41,7 @@ In groups of three (same groups as in Tutorial 8) create a reproducible and coll
  
  # Assignment submission 
 
-- In Moodle: paste the http of your GitHub repo (**submissions that do not contain this information will be marked with a 0**).
+- In Moodle: paste the http of your GitHub repo (**submissions that do not contain this information to reproduce the report will be considered non-reproducible **). Make sure that all your paths are relative to the project folder.
 - Upload the Rmd file of the project.
 - Upload the pdf file of the project.
 - Important:
