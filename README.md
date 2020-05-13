@@ -9,7 +9,7 @@ This is the repo for ETC5513 Assignment 3 due on May 22 at 5:00pm.
 - Confirm that you are able to clone a repository locally and synchronise the changes to the remote GitHub repo.
 - Confirm that you can create meaningful commits so that the changes and the history of the project can be tracked.
 - Show that you can create and merge branches as well as resolve conflicts.
-- Please use the template provided in this repo. For this assignment, you do **not** need to ..... Also ensure that you do **not** include the ..... in the report
+- Please use the template provided in this repo. For this assignment, you do **not** need to modify the template. Also ensure that you do **not** include all the R code and R messages in the report.
 
 
 # Tasks 
